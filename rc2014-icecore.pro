@@ -1,4 +1,4 @@
-update=Mon 21 Sep 2020 22:57:21 BST
+update=Sun 11 Oct 2020 14:51:48 BST
 version=1
 last_client=pcbnew
 [general]
@@ -239,7 +239,7 @@ Enabled=0
 [pcbnew/Netclasses]
 [pcbnew/Netclasses/Default]
 Name=Default
-Clearance=0.2
+Clearance=0.1524
 TrackWidth=0.254
 ViaDiameter=0.6858
 ViaDrill=0.3302
@@ -260,17 +260,6 @@ dPairWidth=0.2
 dPairGap=0.25
 dPairViaGap=0.25
 [pcbnew/Netclasses/2]
-Name=gnd
-Clearance=0.2
-TrackWidth=1.27
-ViaDiameter=0.6858
-ViaDrill=0.3302
-uViaDiameter=0.762
-uViaDrill=0.508
-dPairWidth=0.2
-dPairGap=0.25
-dPairViaGap=0.25
-[pcbnew/Netclasses/3]
 Name=vcc
 Clearance=0.2
 TrackWidth=1.27
