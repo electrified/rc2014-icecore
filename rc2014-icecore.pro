@@ -1,4 +1,4 @@
-update=Sun 11 Oct 2020 14:51:48 BST
+update=Tue 13 Oct 2020 22:18:18 BST
 version=1
 last_client=pcbnew
 [general]
@@ -39,8 +39,9 @@ MinMicroViaDiameter=0
 MinMicroViaDrill=0
 MinHoleToHole=0.25
 TrackWidth1=0.254
-TrackWidth2=0.381
-TrackWidth3=0.635
+TrackWidth2=0.254
+TrackWidth3=0.381
+TrackWidth4=0.635
 ViaDiameter1=0.6858
 ViaDrill1=0.3302
 dPairWidth1=0.2
@@ -260,9 +261,9 @@ dPairWidth=0.2
 dPairGap=0.25
 dPairViaGap=0.25
 [pcbnew/Netclasses/2]
-Name=vcc
-Clearance=0.2
-TrackWidth=1.27
+Name=Power
+Clearance=0.1524
+TrackWidth=0.381
 ViaDiameter=0.6858
 ViaDrill=0.3302
 uViaDiameter=0.762
