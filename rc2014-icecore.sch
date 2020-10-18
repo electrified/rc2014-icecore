@@ -1224,13 +1224,13 @@ Text Label 8380 5960 0    50   ~ 0
 P41
 Text Label 8380 6260 0    50   ~ 0
 P42
-Text Label 9230 6260 0    50   ~ 0
+Text Label 8380 6160 0    50   ~ 0
 P43
 Text Label 9230 6060 0    50   ~ 0
 P44
 Text Label 9230 5960 0    50   ~ 0
 P45
-Text Label 8380 6160 0    50   ~ 0
+Text Label 9230 6260 0    50   ~ 0
 P46
 Text Label 9230 6160 0    50   ~ 0
 P47

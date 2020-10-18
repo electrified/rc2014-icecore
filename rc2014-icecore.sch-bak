@@ -1662,7 +1662,7 @@ U 1 1 66952F3C
 P 5240 890
 F 0 "R1" V 5033 890 50  0000 C CNN
 F 1 "R" V 5124 890 50  0000 C CNN
-F 2 "" V 5170 890 50  0001 C CNN
+F 2 "Resistor_SMD:R_0603_1608Metric" V 5170 890 50  0001 C CNN
 F 3 "~" H 5240 890 50  0001 C CNN
 	1    5240 890 
 	0    1    1    0   
@@ -1681,12 +1681,12 @@ $EndComp
 Wire Wire Line
 	5390 890  5460 890 
 $Comp
-L Mechanical:MountingHole H?
+L Mechanical:MountingHole H1
 U 1 1 66CA3A6A
 P 860 6610
-F 0 "H?" H 960 6656 50  0000 L CNN
+F 0 "H1" H 960 6656 50  0000 L CNN
 F 1 "MountingHole" H 960 6565 50  0000 L CNN
-F 2 "" H 860 6610 50  0001 C CNN
+F 2 "MountingHole:MountingHole_3.2mm_M3" H 860 6610 50  0001 C CNN
 F 3 "~" H 860 6610 50  0001 C CNN
 	1    860  6610
 	1    0    0    -1  
