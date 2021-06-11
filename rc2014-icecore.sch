@@ -713,249 +713,249 @@ NoConn ~ 9690 4380
 NoConn ~ 9690 4480
 NoConn ~ 9690 4580
 Wire Wire Line
-	3530 4460 3720 4460
+	4450 3830 4260 3830
 Wire Wire Line
-	3530 4360 3720 4360
+	4450 3930 4260 3930
 Wire Wire Line
-	3530 3960 3720 3960
+	4450 4330 4260 4330
 Wire Wire Line
-	3530 3860 3720 3860
-Text Label 4380 5360 2    50   ~ 0
+	4450 4430 4260 4430
+Text Label 3600 2930 0    50   ~ 0
 P0
-Text Label 3710 5360 2    50   ~ 0
+Text Label 4270 2930 0    50   ~ 0
 P1
-Text Label 4380 5260 2    50   ~ 0
+Text Label 3600 3030 0    50   ~ 0
 P2
-Text Label 3720 5260 2    50   ~ 0
+Text Label 4260 3030 0    50   ~ 0
 P3
-Text Label 4380 5160 2    50   ~ 0
+Text Label 3600 3130 0    50   ~ 0
 P4
-Text Label 3720 5160 2    50   ~ 0
+Text Label 4260 3130 0    50   ~ 0
 P5
-Text Label 4380 5060 2    50   ~ 0
+Text Label 3600 3230 0    50   ~ 0
 P6
-Text Label 3720 5060 2    50   ~ 0
+Text Label 4260 3230 0    50   ~ 0
 P7
-Text Label 4380 4960 2    50   ~ 0
+Text Label 3600 3330 0    50   ~ 0
 P8
-Text Label 3720 4960 2    50   ~ 0
+Text Label 4260 3330 0    50   ~ 0
 P9
-Text Label 4380 4860 2    50   ~ 0
+Text Label 3600 3430 0    50   ~ 0
 P10
-Text Label 3720 4860 2    50   ~ 0
+Text Label 4260 3430 0    50   ~ 0
 P11
-Text Label 4380 4760 2    50   ~ 0
+Text Label 3600 3530 0    50   ~ 0
 P12
-Text Label 3720 4760 2    50   ~ 0
+Text Label 4260 3530 0    50   ~ 0
 P13
-Text Label 4380 4660 2    50   ~ 0
+Text Label 3600 3630 0    50   ~ 0
 P14
-Text Label 3720 4660 2    50   ~ 0
+Text Label 4260 3630 0    50   ~ 0
 P15
-Text Label 4380 4560 2    50   ~ 0
+Text Label 3600 3730 0    50   ~ 0
 P16
-Text Label 3720 4560 2    50   ~ 0
+Text Label 4260 3730 0    50   ~ 0
 P17
-Text Label 4380 4460 2    50   ~ 0
+Text Label 3600 3830 0    50   ~ 0
 P18
-Text Label 3720 4460 2    50   ~ 0
+Text Label 4260 3830 0    50   ~ 0
 P19
-Text Label 4380 4360 2    50   ~ 0
+Text Label 3600 3930 0    50   ~ 0
 P20
-Text Label 3720 4360 2    50   ~ 0
+Text Label 4260 3930 0    50   ~ 0
 P21
-Text Label 4380 4260 2    50   ~ 0
+Text Label 3600 4030 0    50   ~ 0
 P22
-Text Label 3720 4260 2    50   ~ 0
+Text Label 4260 4030 0    50   ~ 0
 P23
-Text Label 4380 4160 2    50   ~ 0
+Text Label 3600 4130 0    50   ~ 0
 P24
-Text Label 3720 4160 2    50   ~ 0
+Text Label 4260 4130 0    50   ~ 0
 P25
-Text Label 4380 4060 2    50   ~ 0
+Text Label 3600 4230 0    50   ~ 0
 P26
-Text Label 3720 4060 2    50   ~ 0
+Text Label 4260 4230 0    50   ~ 0
 P27
-Text Label 4380 3960 2    50   ~ 0
+Text Label 3600 4330 0    50   ~ 0
 P28
-Text Label 3720 3960 2    50   ~ 0
+Text Label 4260 4330 0    50   ~ 0
 P29
-Text Label 4380 3860 2    50   ~ 0
+Text Label 3600 4430 0    50   ~ 0
 P30
-Text Label 3720 3860 2    50   ~ 0
+Text Label 4260 4430 0    50   ~ 0
 P31
-Text Label 4380 3760 2    50   ~ 0
+Text Label 3600 4530 0    50   ~ 0
 P48
-Text Label 3720 3760 2    50   ~ 0
+Text Label 4260 4530 0    50   ~ 0
 P49
-Text Label 4380 3660 2    50   ~ 0
+Text Label 3600 4630 0    50   ~ 0
 P50
-Text Label 3720 3660 2    50   ~ 0
+Text Label 4260 4630 0    50   ~ 0
 P51
-Text Label 4380 3560 2    50   ~ 0
+Text Label 3600 4730 0    50   ~ 0
 P52
-Text Label 3720 3560 2    50   ~ 0
+Text Label 4260 4730 0    50   ~ 0
 P53
-Text Label 4380 3460 2    50   ~ 0
+Text Label 3600 4830 0    50   ~ 0
 P54
-Text Label 3720 3460 2    50   ~ 0
+Text Label 4260 4830 0    50   ~ 0
 P55
 $Comp
 L power:GND #PWR04
 U 1 1 5FEDF96C
-P 4410 2960
-F 0 "#PWR04" H 4410 2710 50  0001 C CNN
-F 1 "GND" H 4415 2787 50  0000 C CNN
-F 2 "" H 4410 2960 50  0001 C CNN
-F 3 "" H 4410 2960 50  0001 C CNN
-	1    4410 2960
-	-1   0    0    1   
+P 3570 5330
+F 0 "#PWR04" H 3570 5080 50  0001 C CNN
+F 1 "GND" H 3575 5157 50  0000 C CNN
+F 2 "" H 3570 5330 50  0001 C CNN
+F 3 "" H 3570 5330 50  0001 C CNN
+	1    3570 5330
+	1    0    0    -1  
 $EndComp
 $Comp
 L power:GND #PWR01
 U 1 1 5FEDFE3C
-P 3530 2960
-F 0 "#PWR01" H 3530 2710 50  0001 C CNN
-F 1 "GND" H 3535 2787 50  0000 C CNN
-F 2 "" H 3530 2960 50  0001 C CNN
-F 3 "" H 3530 2960 50  0001 C CNN
-	1    3530 2960
-	-1   0    0    1   
+P 4450 5330
+F 0 "#PWR01" H 4450 5080 50  0001 C CNN
+F 1 "GND" H 4455 5157 50  0000 C CNN
+F 2 "" H 4450 5330 50  0001 C CNN
+F 3 "" H 4450 5330 50  0001 C CNN
+	1    4450 5330
+	1    0    0    -1  
 $EndComp
 $Comp
 L power:+5V #PWR06
 U 1 1 5FEE1933
-P 4410 3160
-F 0 "#PWR06" H 4410 3010 50  0001 C CNN
-F 1 "+5V" V 4425 3288 50  0000 L CNN
-F 2 "" H 4410 3160 50  0001 C CNN
-F 3 "" H 4410 3160 50  0001 C CNN
-	1    4410 3160
-	0    1    1    0   
+P 3570 5130
+F 0 "#PWR06" H 3570 4980 50  0001 C CNN
+F 1 "+5V" V 3585 5258 50  0000 L CNN
+F 2 "" H 3570 5130 50  0001 C CNN
+F 3 "" H 3570 5130 50  0001 C CNN
+	1    3570 5130
+	0    -1   -1   0   
 $EndComp
 $Comp
 L power:+5V #PWR03
 U 1 1 5FEE1EB8
-P 3530 3160
-F 0 "#PWR03" H 3530 3010 50  0001 C CNN
-F 1 "+5V" V 3545 3288 50  0000 L CNN
-F 2 "" H 3530 3160 50  0001 C CNN
-F 3 "" H 3530 3160 50  0001 C CNN
-	1    3530 3160
-	0    -1   -1   0   
+P 4450 5130
+F 0 "#PWR03" H 4450 4980 50  0001 C CNN
+F 1 "+5V" V 4465 5258 50  0000 L CNN
+F 2 "" H 4450 5130 50  0001 C CNN
+F 3 "" H 4450 5130 50  0001 C CNN
+	1    4450 5130
+	0    1    1    0   
 $EndComp
-NoConn ~ 4410 3360
-NoConn ~ 4410 3260
-NoConn ~ 3530 3360
-NoConn ~ 3530 3260
+NoConn ~ 3570 4930
+NoConn ~ 3570 5030
+NoConn ~ 4450 4930
+NoConn ~ 4450 5030
 Wire Wire Line
-	4220 4360 4410 4360
+	3760 3930 3570 3930
 Wire Wire Line
-	4220 3860 4410 3860
+	3760 4430 3570 4430
 Wire Wire Line
-	4220 3260 4410 3260
+	3760 5030 3570 5030
 Wire Wire Line
-	4220 3160 4410 3160
+	3760 5130 3570 5130
 Wire Wire Line
-	4220 5360 4410 5360
+	3760 2930 3570 2930
 Wire Wire Line
-	4220 5260 4410 5260
+	3760 3030 3570 3030
 Wire Wire Line
-	4220 5160 4410 5160
+	3760 3130 3570 3130
 Wire Wire Line
-	4220 5060 4410 5060
+	3760 3230 3570 3230
 Wire Wire Line
-	4220 4960 4410 4960
+	3760 3330 3570 3330
 Wire Wire Line
-	4220 4860 4410 4860
+	3760 3430 3570 3430
 Wire Wire Line
-	4220 3060 4410 3060
+	3760 5230 3570 5230
 Wire Wire Line
-	4220 4760 4410 4760
+	3760 3530 3570 3530
 Wire Wire Line
-	4220 4660 4410 4660
+	3760 3630 3570 3630
 Wire Wire Line
-	4220 4560 4410 4560
+	3760 3730 3570 3730
 Wire Wire Line
-	4220 4460 4410 4460
+	3760 3830 3570 3830
 Wire Wire Line
-	4220 4260 4410 4260
+	3760 4030 3570 4030
 Wire Wire Line
-	4220 4160 4410 4160
+	3760 4130 3570 4130
 Wire Wire Line
-	4220 4060 4410 4060
+	3760 4230 3570 4230
 Wire Wire Line
-	4220 3960 4410 3960
+	3760 4330 3570 4330
 Wire Wire Line
 	6230 1800 6040 1800
 Wire Wire Line
-	4220 3760 4410 3760
+	3760 4530 3570 4530
 Wire Wire Line
-	4220 3660 4410 3660
+	3760 4630 3570 4630
 Wire Wire Line
-	4220 3560 4410 3560
+	3760 4730 3570 4730
 Wire Wire Line
-	4220 3460 4410 3460
+	3760 4830 3570 4830
 Wire Wire Line
-	4220 3360 4410 3360
+	3760 4930 3570 4930
 Wire Wire Line
-	4220 2960 4410 2960
+	3760 5330 3570 5330
 Wire Wire Line
-	3530 5060 3720 5060
+	4450 3230 4260 3230
 Wire Wire Line
-	3530 5160 3720 5160
+	4450 3130 4260 3130
 Wire Wire Line
-	3530 2960 3720 2960
+	4450 5330 4260 5330
 Wire Wire Line
-	3530 3060 3720 3060
+	4450 5230 4260 5230
 Wire Wire Line
-	3530 3160 3720 3160
+	4450 5130 4260 5130
 Wire Wire Line
-	3530 3260 3720 3260
+	4450 5030 4260 5030
 Wire Wire Line
-	3530 3360 3720 3360
+	4450 4930 4260 4930
 Wire Wire Line
-	3530 3460 3720 3460
+	4450 4830 4260 4830
 Wire Wire Line
-	3530 5260 3720 5260
+	4450 3030 4260 3030
 Wire Wire Line
-	3530 3560 3720 3560
+	4450 4730 4260 4730
 Wire Wire Line
-	3530 3660 3720 3660
+	4450 4630 4260 4630
 Wire Wire Line
-	3530 3760 3720 3760
+	4450 4530 4260 4530
 Wire Wire Line
-	3530 4060 3720 4060
+	4450 4230 4260 4230
 Wire Wire Line
-	3530 4160 3720 4160
+	4450 4130 4260 4130
 Wire Wire Line
-	3530 4260 3720 4260
+	4450 4030 4260 4030
 Wire Wire Line
-	3530 5360 3720 5360
+	4450 2930 4260 2930
 Wire Wire Line
-	3530 4560 3720 4560
+	4450 3730 4260 3730
 Wire Wire Line
-	3530 4660 3720 4660
+	4450 3630 4260 3630
 Wire Wire Line
-	3530 4760 3720 4760
+	4450 3530 4260 3530
 Wire Wire Line
-	3530 4860 3720 4860
+	4450 3430 4260 3430
 Wire Wire Line
-	3530 4960 3720 4960
+	4450 3330 4260 3330
 $Comp
 L Connector_Generic:Conn_02x25_Odd_Even J1
 U 1 1 5F994BBB
-P 4020 4160
-F 0 "J1" H 4070 2735 50  0000 C CNN
-F 1 "Conn_02x25_Odd_Even" H 4070 2826 50  0000 C CNN
-F 2 "Connector_PinHeader_2.54mm:PinHeader_2x25_P2.54mm_Vertical" H 4020 4160 50  0001 C CNN
-F 3 "~" H 4020 4160 50  0001 C CNN
-	1    4020 4160
-	-1   0    0    1   
+P 3960 4130
+F 0 "J1" H 4010 2705 50  0000 C CNN
+F 1 "Conn_02x25_Odd_Even" H 4010 2796 50  0000 C CNN
+F 2 "Connector_PinHeader_2.54mm:PinHeader_2x25_P2.54mm_Vertical" H 3960 4130 50  0001 C CNN
+F 3 "~" H 3960 4130 50  0001 C CNN
+	1    3960 4130
+	1    0    0    -1  
 $EndComp
-Text Label 3530 3060 0    60   ~ 0
+Text Label 4450 5230 2    60   ~ 0
 FPGA_VCC
-Text Label 4250 3060 0    60   ~ 0
+Text Label 3730 5230 2    60   ~ 0
 FPGA_VCC
 Text Label 8200 7800 0    60   ~ 0
 FPGA_VCC
