@@ -1,7 +1,7 @@
 (export (version D)
   (design
     (source /home/ed/kicad/rc2014-icecore/rc2014-icecore.sch)
-    (date "Sat 26 Jun 2021 17:23:13 BST")
+    (date "Tue 29 Jun 2021 20:40:16 BST")
     (tool "Eeschema 5.1.10")
     (sheet (number 1) (name /) (tstamps /)
       (title_block
