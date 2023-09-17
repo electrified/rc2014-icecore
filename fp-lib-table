@@ -1,0 +1,5 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "blackedge")(type "KiCad")(uri "/home/ed/kicad/blackedge-kicad/footprints/BlackEdge.pretty")(options "")(descr ""))
+  (lib (name "rc2014")(type "KiCad")(uri "${KIPRJMOD}/rc2014.pretty")(options "")(descr ""))
+)
